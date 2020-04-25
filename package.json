@@ -1,0 +1,11 @@
+{
+    "name": "aranha-cervezas",
+    "version": "1.0.0",
+    "description": "primera versión del buscador de precios de cervezas",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Joaquin antonio clemente fernandez",
+    "license": "UNLICENSED"
+}
